@@ -1,0 +1,9 @@
+C:\Users\frida\source\repos\login2.0\LoginForm\LoginForm\obj\Debug\netstandard2.0\LoginForm.csprojAssemblyReference.cache
+C:\Users\frida\source\repos\login2.0\LoginForm\LoginForm\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\frida\source\repos\login2.0\LoginForm\LoginForm\obj\Debug\netstandard2.0\exito.xaml.g.cs
+C:\Users\frida\source\repos\login2.0\LoginForm\LoginForm\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\frida\source\repos\login2.0\LoginForm\LoginForm\obj\Debug\netstandard2.0\LoginForm.AssemblyInfoInputs.cache
+C:\Users\frida\source\repos\login2.0\LoginForm\LoginForm\obj\Debug\netstandard2.0\LoginForm.AssemblyInfo.cs
+C:\Users\frida\source\repos\login2.0\LoginForm\LoginForm\obj\Debug\netstandard2.0\LoginForm.dll
+C:\Users\frida\source\repos\login2.0\LoginForm\LoginForm\obj\Debug\netstandard2.0\ref\LoginForm.dll
+C:\Users\frida\source\repos\login2.0\LoginForm\LoginForm\obj\Debug\netstandard2.0\LoginForm.pdb

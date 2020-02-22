@@ -1,0 +1,5 @@
+C:\Users\frida\source\repos\login2.0\LoginForm\LoginForm.Android\obj\Debug\90\MonoAndroid,Version=v9.0.AssemblyAttributes.cs
+C:\Users\frida\source\repos\login2.0\LoginForm\LoginForm.Android\obj\Debug\90\build.props
+C:\Users\frida\source\repos\login2.0\LoginForm\LoginForm.Android\obj\Debug\90\adb.props
+C:\Users\frida\source\repos\login2.0\LoginForm\LoginForm.Android\obj\Debug\90\LoginForm.Android.csprojAssemblyReference.cache
+C:\Users\frida\source\repos\login2.0\LoginForm\LoginForm.Android\obj\Debug\90\_VerifyXamarinAndroidSupportVersions.stamp
